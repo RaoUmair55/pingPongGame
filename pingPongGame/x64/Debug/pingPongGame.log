@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\VSProj\pingPongGame\main.cpp(22,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\VSProj\pingPongGame\main.cpp(22,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\VSProj\pingPongGame\main.cpp(22,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\VSProj\pingPongGame\main.cpp(63,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VSProj\pingPongGame\main.cpp(64,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\VSProj\pingPongGame\main.cpp(88,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\VSProj\pingPongGame\main.cpp(180,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\VSProj\pingPongGame\main.cpp(182,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\VSProj\pingPongGame\main.cpp(185,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\VSProj\pingPongGame\main.cpp(238,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\VSProj\pingPongGame\main.cpp(241,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  pingPongGame.vcxproj -> C:\VSProj\pingPongGame\x64\Debug\pingPongGame.exe
